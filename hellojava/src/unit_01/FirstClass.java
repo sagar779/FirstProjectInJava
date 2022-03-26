@@ -1,0 +1,14 @@
+package unit_01;
+
+public class FirstClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       System.out.println("Hello, world");
+       System.out.println("sagar");
+       System.out.println(" singh ");
+       System.out.println("rauthan ");
+       
+	}
+
+}
